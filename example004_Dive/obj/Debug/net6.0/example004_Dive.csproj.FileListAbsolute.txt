@@ -1,0 +1,15 @@
+C:\Users\Алексей\Desktop\lesson 1\example004_Dive\bin\Debug\net6.0\example004_Dive.exe
+C:\Users\Алексей\Desktop\lesson 1\example004_Dive\bin\Debug\net6.0\example004_Dive.deps.json
+C:\Users\Алексей\Desktop\lesson 1\example004_Dive\bin\Debug\net6.0\example004_Dive.runtimeconfig.json
+C:\Users\Алексей\Desktop\lesson 1\example004_Dive\bin\Debug\net6.0\example004_Dive.dll
+C:\Users\Алексей\Desktop\lesson 1\example004_Dive\bin\Debug\net6.0\example004_Dive.pdb
+C:\Users\Алексей\Desktop\lesson 1\example004_Dive\obj\Debug\net6.0\example004_Dive.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\lesson 1\example004_Dive\obj\Debug\net6.0\example004_Dive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\lesson 1\example004_Dive\obj\Debug\net6.0\example004_Dive.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\lesson 1\example004_Dive\obj\Debug\net6.0\example004_Dive.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\lesson 1\example004_Dive\obj\Debug\net6.0\example004_Dive.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\lesson 1\example004_Dive\obj\Debug\net6.0\example004_Dive.dll
+C:\Users\Алексей\Desktop\lesson 1\example004_Dive\obj\Debug\net6.0\refint\example004_Dive.dll
+C:\Users\Алексей\Desktop\lesson 1\example004_Dive\obj\Debug\net6.0\example004_Dive.pdb
+C:\Users\Алексей\Desktop\lesson 1\example004_Dive\obj\Debug\net6.0\example004_Dive.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\lesson 1\example004_Dive\obj\Debug\net6.0\ref\example004_Dive.dll
